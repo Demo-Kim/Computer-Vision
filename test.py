@@ -20,7 +20,7 @@ while True:
     # 프레임을 화면에 표시합니다.
     cv2.imshow('Webcam', frame)
 
-    # 'q' 키를 누르면 종료합니다.qwdtrtytserc
+    # 'q' 키를 누르면 종료합니다.qwdtrtytsercdwddwd
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
